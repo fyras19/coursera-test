@@ -1,0 +1,25 @@
+.navbar-brand{
+    font-size: 1.8em;
+    padding-left: .5em;
+}
+
+#menu{
+    background-color: #fff;
+    text-align: center;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: #000;
+}
+
+.text-center{
+    margin-top: .5em;
+    margin-bottom: .7em;
+}
+
+#main-text{
+    background-color: #343a40;
+    color: #fff;
+    padding: .3em 1em .7em ;
+    /* height: 1000px; */
+}
